@@ -1,0 +1,32 @@
+body {
+	width: 400px;
+	padding: 10px;
+}
+
+#createuser,
+.loadusers {
+	width: 400px;
+	height: 2em;
+	background-color: #4CAF50;
+	color: white;
+	margin: 5px;
+	font-size: 1em;
+}
+
+.users-div {
+	position: relative;
+	height: 50px;
+	border: 2px solid #4CAF50;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 5px;
+}
+
+.user-delete {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 30px;
+	height: 50px;
+	background-color: #4CAF50;
+}
